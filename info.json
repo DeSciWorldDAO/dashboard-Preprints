@@ -1,1 +1,22 @@
-
+{"name":"Preprints.io",
+"tokenSymbol":"$PRNT",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Preprints.io is a platform for sharing and discussing blockchain research, focusing on technical, financial, and user experience aspects, including security, protocol design, decentralized finance (DeFi), and governance in decentralized autonomous organizations (DAOs). We're committed to examining the technology's ethical dimensions and its potential social impacts.
+Manuscripts are stored as NFTs (ERC721 tokens) on the Polygon blockchain, ensuring they are immutably recorded. Authors can freely decide their manuscript's accessibility: offering open access or monetizing through ERC20 access tokens facilitated by the Ocean Protocol. As our user base grows, we aim to introduce a governance token to encourage and reward peer review and fully decentralized the governance of the platform.",
+"whitePaperLink":"https://preprints.io",
+"gallery":[{}],
+"deleted":false,
+"primaryColor":"#0a31cf",
+"twitterHandle":"haailabs",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://haai.info/pp.png",
+"telegramLink":"https://t.me/preprintsio",
+"discordLink":"",
+"website":"https://preprints.io",
+"tokenDescription":"$PRNT is both a governance and utility token to encourage and reward peer review and fully decentralize the governance of the platform.",
+"tokenTradeLink":"https://app.v2.fjordfoundry.com/pools/0xf2eb030F1Fe7511973f3FCfaaADBFc1e23D0612A",
+"tags":["Publishing", "NFTs", "Decentralized funding", "Blockchain protocols", "Science DeFi"]
+  
+}
